@@ -34,3 +34,7 @@
 *.tdo
 *.thm
 .DS_Store
+
+*.pdf
+
+
