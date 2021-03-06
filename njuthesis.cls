@@ -101,18 +101,18 @@
 \RequirePackage[hyphens]{url}
 \RequirePackage{hyperref}
 \hypersetup{%
-    unicode=false,
-    hyperfootnotes=true,
-    hyperindex=true,
+    unicode=true,
+    %hyperfootnotes=true,
+    %hyperindex=true,
     pageanchor=true,
-    CJKbookmarks=true,
+    %CJKbookmarks=true,
     bookmarksnumbered=true,
     bookmarksopen=true,
     bookmarksopenlevel=0,
     breaklinks=true,
     colorlinks=false,
     plainpages=false,
-    pdfpagelabels,
+    %pdfpagelabels,
     pdfborder=0 0 0%
 }
 \urlstyle{same}
